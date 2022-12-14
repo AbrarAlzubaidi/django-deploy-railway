@@ -1,0 +1,1 @@
+- when we run docker we should be out of the evn
